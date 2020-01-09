@@ -1,5 +1,6 @@
 # ShopDaggerJava
 Задание, для провеки уровня владением Dagger, на тематику приложения агрегатора товаров в магазинах
+
 Шаблон этого задания на kolin https://github.com/JunoHunt/JunoShopDaggerTaskKotlin
 ---
 Ход выполнения:
